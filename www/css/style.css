@@ -1,0 +1,63 @@
+header {
+    background-color: #ff0;
+    background-image: url('../img/www.jpg');
+   /* background-position: 30px 20px;*/
+    background-repeat: no-repeat;
+    padding: 40px 0;
+}
+
+
+a{
+  color: orange; 
+  font-size: 20px; 
+  font-family: Cooper Black;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    color: orange;
+    font-family: Cooper Black;
+}
+
+
+body {
+    font-family: Arial;
+}
+
+main {
+    width: 1170px;
+    margin: auto auto;
+    border: 20px solid DodgerBlue;
+    padding: 20px;
+}
+
+h1 {
+    color: rgb(255,165,0);
+    text-align: center;
+}
+
+h2 {
+    border-bottom: 1px orange;
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+}
+
+p {
+    text-align: left;
+    text-indent: 50px;
+    font-size: 120%;
+}
+
+ul {
+    text-align: left;
+}
+
+li {
+    text-align: left;
+}
+
+
+
+    
